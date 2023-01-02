@@ -2,8 +2,8 @@
 
 Project Description
 
-As a Data Analyst who works for the education tech company Udemy, I was asked by my manager, the Head of Curriculum, to analyze the data on course revenue. I was provided with data on courses from different topics to understand where opportunities to increase revenue could lie, and track the performance of courses.
-My manager suggested encouraging Web Development courses to have an increase in charge because she strongly believed that these are the most popular courses. She needed to send a report to the CEO in three weeks on how they would increase the next quarterly earnings.
+I assumed the role of a Data Analyst for the education tech company Udemy. The manager, the Head of Curriculum, requested that an analysis be carried out on the data provided to understand where opportunities to increase revenue could lie, and track the performance of courses. 
+My Head of Curriculum suggested encouraging Web Development courses to have an increase in charge because of the general belief that these were the most popular courses on the platform. A report was to be sent to the CEO in three weeks on how they would increase the next quarterly earnings.
 I was provided with four different spreadsheets which required consolidation into one spreadsheet, and the creation of pivot tables and charts for the analysis.
 From the analysis, I was able to break down the opportunities available to increase revenue in the courses that had such potentials.
 
