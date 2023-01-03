@@ -1,3 +1,5 @@
+Note: The dataset used for this project are entirely fictional and was provided by the course instructors of the Entry Level platform (https://www.entrylevel.net). I participated in and completed the Data Analyst, Spreadsheets and Taleau program.
+
 # Udemy-Courses-Performance-Analysis
 
 Project Description
